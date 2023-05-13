@@ -1,0 +1,7 @@
+{
+	"name": "gametest2-scraper",
+	"scripts": {
+		"parse": "node parser.js DeployHistory.txt",
+		"start": "node scraper.js DeployHistory.json"
+	}
+}
